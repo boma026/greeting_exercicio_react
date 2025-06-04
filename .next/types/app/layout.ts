@@ -1,4 +1,4 @@
-// File: /home/biome/Boma/greeting_exercicio_react/src/app/layout.tsx
+// File: C:\Users\arthu\git\greeting_exercicio_react\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
