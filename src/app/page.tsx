@@ -15,7 +15,7 @@ export default function home () {
                         {hour >= 12 && hour < 18 && "Boa tarde!"}
                         {hour >= 18 && hour <= 24 && "Boa noite!"}
                         {hour < 12 && "Bom dia!"} 
-                    </p>
+                    </p>    
                 </div>
                 
         </div>
